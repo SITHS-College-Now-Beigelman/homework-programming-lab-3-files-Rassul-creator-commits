@@ -1,6 +1,6 @@
 // Rassul Khalizov
-// Lecture 5
-// October 7th
+// Homework 3, Part 1 
+// October 20th
 
 #include<iostream>
 #include<fstream>
